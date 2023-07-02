@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /contact/
+title: "Contact"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  # - /md/
+  # - /markdown.html
 ---
 
 Contact information is below, including email and various web services.
