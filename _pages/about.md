@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Mao, a student at WASEDA University in the graduate school of information, production and systems.
+Hi! I'm Mao, a student at WASEDA University in the Graduate School of Information,Production and Systems.
 
 ## My work and research
 Unfinished to be continued
