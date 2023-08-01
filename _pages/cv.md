@@ -64,5 +64,5 @@ Teaching
 Service and leadership
 ======
 * Spring 2020: Volunteer
-  * Coronavirus disease Prevention and Control Headquarter
+  * Coronavirus Disease Prevention and Control Headquarter
   * Took on the responsibility of meticulously verifying and cross-referencing information to ensure its accuracy, followed by proficiently executing the process of data dissemination and seamless integration into relevant systems
