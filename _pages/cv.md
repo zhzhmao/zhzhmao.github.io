@@ -17,24 +17,29 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Intern
+  * Base for information security throughout the country
+  * Duties included: Use SpringBoot framework to realize WEB modular development, and build a server platform for baseline verification. Python was used to complete the development of baseline configuration verification system and realize the automatic detection of unsafe configuration of Windows system
+  * Supervisor: LIU, Wensheng
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Proficient in Python, R, familiar with C, Java
+* Operating Systems: Proficient in Windows and Linux environments
+* Software: Proficient in Microsoft Office, familiar with LaTeX, Git
+* Machine Learning: 
+  * Strong understanding and practical experience with a variety of machine learning algorithms 
+  * Proficient in working with deep learning frameworks 
+* Languages: Mandarin, English, Japanese
+
+Additional Skills
+======
+* Problem-Solving: Strong analytical and critical thinking abilities to tackle complex programming challenges
+* Teamwork: Effective communication and collaboration skills within cross-functional teams
+* Adaptability: Quick learner, able to adapt to new technologies and programming languages
+* Project Management: Experience in organizing and delivering projects within specified deadlines
+* Debugging: Proven expertise in identifying and resolving software bugs and issues
 
 Publications
 ======
@@ -56,4 +61,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Spring 2020: Volunteer
+  * Coronavirus disease Prevention and Control Headquarter
+  * Took on the responsibility of meticulously verifying and cross-referencing information to ensure its accuracy, followed by proficiently executing the process of data dissemination and seamless integration into relevant systems
