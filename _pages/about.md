@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Mao, a student at WASEDA University in the Graduate School of Information,Production and Systems.
+Hi! I'm Mao, a student at WASEDA University in the Graduate School of Information,Production and Systems. I love blue skies and white clouds, that's why my avatar is the way it is.
 
 ## My work and research
 Unfinished to be continued
