@@ -14,6 +14,9 @@ Education
 * Bachelor of Engineering in School of Cyber Science and Engineering, Sichuan University, 2022
 * Master of Engineering in Graduate School of Information, Production and Systems, Waseda University, 2024 (expected)
 
+Research experience
+======
+* Unfinished to be continued
 
 Work experience
 ======
@@ -21,7 +24,6 @@ Work experience
   * Base for information security throughout the country
   * Duties included: Use SpringBoot framework to realize WEB modular development, and build a server platform for baseline verification. Python was used to complete the development of baseline configuration verification system and realize the automatic detection of unsafe configuration of Windows system
   * Supervisor: LIU, Wensheng
-
   
 Skills
 ======
