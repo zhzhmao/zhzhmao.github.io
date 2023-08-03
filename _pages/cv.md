@@ -16,7 +16,12 @@ Education
 
 Research experience
 ======
-* Unfinished to be continued
+* Spring 2022: Capstone Project
+  * Research on the Description and Discovery of Network Virtual Resources
+  * A crawler capable of comprehensive and efficient data collection is implemented, and a user feature discrimination criterion is proposed for manual tagging to improve the dataset.
+  * A total of twenty features are proposed in four categories: basic features, behavioral features, content features, and temporal features, which can better describe and distinguish these users.
+  * A new deep neural network model is designed to achieve effective discovery of abnormal users by combining Densely Connected Convolutional Network, Bidirectional Long Short Term Memory and Attention Mechanism, which has a performance under data sets of different sizes and balances, and can be accurately and well used for the discovery of virtual users.
+  * Supervisor: RUAN, Shuhua
 
 Work experience
 ======
@@ -29,7 +34,7 @@ Skills
 ======
 * Programming Languages: Proficient in Python, R, familiar with C, Java
 * Operating Systems: Proficient in Windows and Linux environments
-* Software: Proficient in Microsoft Office, familiar with LaTeX, Git
+* Software: Proficient in Microsoft Office, Markdown, familiar with LaTeX, Git
 * Machine Learning: 
   * Strong understanding and practical experience with a variety of machine learning algorithms 
   * Proficient in working with deep learning frameworks 
@@ -64,5 +69,5 @@ Teaching
 Service and leadership
 ======
 * Spring 2020: Volunteer
-  * Coronavirus Disease Prevention and Control Headquarter
-  * Took on the responsibility of meticulously verifying and cross-referencing information to ensure its accuracy, followed by proficiently executing the process of data dissemination and seamless integration into relevant systems
+  * Epidemic Prevention and Control Headquarter
+  * Duties included: Took on the responsibility of meticulously verifying and cross-referencing information to ensure its accuracy, followed by proficiently executing the process of data dissemination and seamless integration into relevant systems
