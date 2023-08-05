@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 Contact information is below, including email and various web services.
-- E-mail: z.mao [at] ruri.waseda.jp
+- E-mail: z [dot] mao [at] ruri.waseda.jp
 - Github: [zhzhmao](https://github.com/zhzhmao)
