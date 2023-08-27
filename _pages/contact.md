@@ -20,5 +20,5 @@ Waseda University, Japan
 2-7 Hibikino, Wakamatsu-ku, Kitakyushu, Fukuoka
 808-0135, Japan  
 
-E-mail：<a href="mailto:z.mao@ruri.waseda.jp">z.mao@ruri.waseda.jp </a> 
+E-mail：<a href="mailto:z.mao@ruri.waseda.jp">z.mao@ruri.waseda.jp </a>  
 －－－－－－－－－－－－－－－－－－－－－－□  
