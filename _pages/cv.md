@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Click to view the PDF version of my resume.](http://zhzhmao.github.io/files/Resume.pdf)
+
 {% include base_path %}
 
 Education
