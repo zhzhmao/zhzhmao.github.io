@@ -9,11 +9,11 @@ redirect_from:
 
 [Click to view the PDF version of my resume.](https://zhzhmao.github.io/files/Resume.pdf)
 
-<embed src="https://zhzhmao.github.io/files/Resume.pdf" type="application/pdf" width="100%" height="100%"/>
-
 {% include base_path %}
 
-Education
+<embed src="https://zhzhmao.github.io/files/Resume.pdf" type="application/pdf" width="100%" height="100%"/>
+
+<!-- Education
 ======
 * Bachelor of Engineering in School of Cyber Science and Engineering, Sichuan University, 2022
 * Master of Engineering in Graduate School of Information, Production and Systems, Waseda University, 2024 (expected)
@@ -74,4 +74,4 @@ Service and leadership
 ======
 * Spring 2020: Volunteer
   * Epidemic Prevention and Control Headquarter
-  * Duties included: Took on the responsibility of meticulously verifying and cross-referencing information to ensure its accuracy, followed by proficiently executing the process of data dissemination and seamless integration into relevant systems
+  * Duties included: Took on the responsibility of meticulously verifying and cross-referencing information to ensure its accuracy, followed by proficiently executing the process of data dissemination and seamless integration into relevant systems -->
