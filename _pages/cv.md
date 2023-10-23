@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[Click to view the PDF version of my resume.](http://zhzhmao.github.io/files/Resume.pdf)
+[Click to view the PDF version of my resume.](https://zhzhmao.github.io/files/Resume.pdf)
+
+<embed src="https://zhzhmao.github.io/files/Resume.pdf" type="application/pdf" width="100%" />
 
 {% include base_path %}
 
