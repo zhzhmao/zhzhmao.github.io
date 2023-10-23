@@ -9,7 +9,7 @@ redirect_from:
 
 [Click to view the PDF version of my resume.](https://zhzhmao.github.io/files/Resume.pdf)
 
-<embed src="https://zhzhmao.github.io/files/Resume.pdf" type="application/pdf"/>
+<embed src="https://zhzhmao.github.io/files/Resume.pdf" type="application/pdf" width="100%" height="100%"/>
 
 {% include base_path %}
 
