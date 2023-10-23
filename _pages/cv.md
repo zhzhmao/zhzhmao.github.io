@@ -10,6 +10,7 @@ redirect_from:
 [Click to view the PDF version of my resume.](https://zhzhmao.github.io/files/Resume.pdf)
 
 {% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
 
 <embed src="https://zhzhmao.github.io/files/Resume.pdf" type="application/pdf" width="100%" height="100%"/>
 
