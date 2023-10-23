@@ -12,7 +12,9 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-<embed src="https://zhzhmao.github.io/files/Resume.pdf" type="application/pdf" width="100%" height="100%"/>
+<img src='/images/Resume.png'>
+
+<!-- <embed src="https://zhzhmao.github.io/files/Resume.pdf" type="application/pdf" width="100%" height="100%"/> -->
 
 <!-- Education
 ======
