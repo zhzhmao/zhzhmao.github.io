@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Mao, a student at [WASEDA University](https://www.waseda.jp/top/en/) in the [Graduate School of Information, Production and Systems](https://www.waseda.jp/fsci/gips/en/). I love blue skies and white clouds, that's why my avatar is the way it is.
+Hi! I'm Mao, a student at [WASEDA University](https://www.waseda.jp/top/en/) in the [Graduate School of Information, Production and Systems](https://www.waseda.jp/fsci/gips/en/), from [Biomedical Engineering Lab](https://www.waseda.jp/fsci/gips/news-en/2023/07/03/25114/), supervised by [Junko TAKAHASHI](https://www.waseda.jp/fsci/gips/other-en/2021/04/01/20562/). I love blue skies and white clouds, that's why my avatar is the way it is.
 
 ## My work and research
 Currently I am engaged in bioinformatics research, with the target generally being tumors. I focus on genomes and transcriptomes, and in addition to using statistical methods to analyze gene expression, I would like to apply machine learning to the field of cancer. In addition to this, I have found that optimization theory also has applications in the biomedical field and I am learning and understanding this amazing theory. Of course besides dry lab, I am also learning about wet lab, which is equally important.
